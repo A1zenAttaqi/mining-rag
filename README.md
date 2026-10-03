@@ -1,4 +1,4 @@
-\# mining-rag
+# mining-rag
 
 
 
